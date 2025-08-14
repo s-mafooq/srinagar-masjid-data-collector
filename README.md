@@ -4,7 +4,9 @@ Automatically captures names, addresses, coordinates, amenities, and profile ima
 
 
 
-[![Python](https://img.shields.io/badge/Python-3. MIT](https://img.shields.io/badge/License-MIT-green.svgaping](https://img.shields.io/badge/Tool-Web%20Scraper Features
+[Python](https://img.shields.io/badge/Python-3.
+MIT(https://img.shields.io/badge/License-MIT-green.svgaping]
+(https://img.shields.io/badge/Tool-Web%20Scraper Features)
 
 Accurate data extraction — names, coordinates, addresses
 
@@ -70,3 +72,4 @@ Respect Google Maps Terms of Service
 
 MIT License © 2025 Shiekh Mafooq
 This tool is for educational purposes only — use responsibly.
+
