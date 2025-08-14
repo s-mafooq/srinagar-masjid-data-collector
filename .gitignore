@@ -1,0 +1,49 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual envs
+.env/
+.venv/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and reports
+*.log
+reports/*.log
+progress/
+
+# Generated data and artifacts
+*.xlsx
+*.html
+*.tmp
+
+# CSVs at root (generated)
+/*.csv
+
+# Data directories (keep directory with placeholder if needed)
+masjid_data/*.csv
+masjid_data/*.json
+!masjid_data/README.md
+!masjid_data/sample_srinagar_masjids.csv
+
+# Images (large binaries)
+masjid_images/**
+!masjid_images/README.md
+
+# Jupyter and notebooks
+*.ipynb_checkpoints
+*.ipynb
+
+# Idea/VSCode
+.vscode/
+.idea/
+
+# Python build
+build/
+dist/
+*.egg-info/ 
